@@ -1,0 +1,13 @@
+// Script File Name : nvram.txt
+// Created on 06/14/24 at 17:58:06
+// AMISCE Utility. Ver 5.05.01.0002
+// Copyright (c) 2021 AMI. All rights reserved.
+HIICrc32= D1B4C18C
+
+Setup Question=VT-d
+Help String=Intel Virtualization Technology for Directed I/O
+Token=6FE
+Offset=813
+Width=01
+Options=*[00]Disabled
+[01]Enabled
